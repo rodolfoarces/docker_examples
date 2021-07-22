@@ -1,0 +1,1 @@
+<html><body>You are being <a href="https://raw.githubusercontent.com/docker-library/postgres/5c0e796bb660f0ae42ae8bf084470f13417b8d63/12/buster/docker-entrypoint.sh">redirected</a>.</body></html>
